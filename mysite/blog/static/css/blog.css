@@ -1,5 +1,5 @@
   .techfont {
-    font-family: 'Rubik', sans-serif;
+    font-family: 'Russo', sans-serif;
     font-size: 1.5em;
     margin-bottom: 10px;
   }  
@@ -25,13 +25,13 @@
   }
 
   .posttitle{
-    font-family: 'Rubik', sans-serif;
+    font-family: 'Russo', sans-serif;
     font-size: 3em;
     text-align: center;
   }
 
   .postcontent{
-    font-family: 'Rubik';
+    font-family: 'Montserrat';
     font-size: 1.5em;
   }
 
