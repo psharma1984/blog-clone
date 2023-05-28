@@ -7,6 +7,11 @@
   .bigbrand{
     font-size: 1.5em;
   }
+
+  .centerstage{
+    margin-left: auto;
+    margin-right:auto;
+  }
   
   .loader {    
     filter:hue-rotate(0deg);
@@ -14,7 +19,29 @@
     animation:hue 10000ms infinite linear;
    
   }
+
+  .postdate{
+    text-align: center;
+  }
+
+  .posttitle{
+    font-family: 'Rubik', sans-serif;
+    font-size: 3em;
+    text-align: center;
+  }
+
+  .postcontent{
+    font-family: 'Rubik';
+    font-size: 1.5em;
+  }
+
+  .btn-comment{
+    position: absolute;
+    right: 0px;
+  }
   
+  /* COLOR CHANGER BELOW */
+
   @keyframes spinify {
     0% {
       transform: translate(0px,0px);
